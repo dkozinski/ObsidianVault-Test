@@ -2,3 +2,4 @@
 # ObsidianVault-Test
 
 Dodałem cos
+Zmiana
