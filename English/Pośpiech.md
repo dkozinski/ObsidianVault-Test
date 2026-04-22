@@ -1,16 +1,22 @@
 
 # Pośpiech i pociąg – podsumowanie
 
-## ​Szybkie przemieszczanie się
 
+## Szybkie przemieszczanie się
+
+- ​**I'm in a rush!** – Śpieszę się! (podstawowy zwrot).
 - ​**Dashing to the platform** – pędzić na peron (dynamiczny sprint).
 - ​**Rushing to the platform** – spieszyć się na peron (ogólny pośpiech).
+
+## ​Krótkie wiadomości (w biegu)
+
+- ​**Catching my train, talk later!** – Łapię pociąg, pogadamy później!
+- ​**My train's here, gotta run!** – Mój pociąg już jest, muszę lecieć!
 
 ## ​Cel i ratunek (użycie „for”)
 
 - ​**Dashing for the train** – gnać, żeby zdążyć na pociąg.
 - ​**Rushing for the train** – pędzić na pociąg.
-- ​**Making a dash for it** – desperacki bieg w stronę celu.
 
 ## ​Catching (Łapanie transportu)
 
@@ -27,5 +33,3 @@
 
 - ​**To** + miejsce (np. _to the platform_).
 - ​**For** + cel (np. _for the train_).
-
-​Mam nadzieję, że udało Ci się zdążyć na peron i pociąg nie uciekł!
