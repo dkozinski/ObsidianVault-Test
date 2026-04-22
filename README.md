@@ -18,7 +18,10 @@
 
 https://chemiabudowlana.info/artykul-2391/jak-kleic-plyty-gipsowo-kartonowe.html
 
+https://www.rigips.pl/aktualnosci/klejenie-plyt-gipsowo-kartonowych-krok-po-kroku
+
 - klej gipsowy Gipsar Mocar
+- klej gipsowy Rigips
 
 # 🛠️ Gruntowanie podłoża pod płytę G-K (Lustro Łazienkowe)
 
